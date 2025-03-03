@@ -1,1 +1,1 @@
-![Uploading image.png…]()
+![Preview Image](images/preview.jpeg)
